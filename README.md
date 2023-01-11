@@ -7,3 +7,7 @@ Cleaned, transformed, and prepared the data for analysis, and validated the inte
 Communicated the findings of the analysis in a clear and concise manner, using tables, figures, and narrative explanations. 
 Developed data-driven recommendations and proposed solutions to address specific business or research questions. 
 Proved the ability to work with large datasets, and handle data structures in a programmatic way, such as with R language.
+
+
+Dataset Link
+https://www.gov.uk/government/statistical-data-sets/uk-house-price-index-data-downloads-april-2021
